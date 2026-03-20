@@ -53,5 +53,3 @@ Traditional warranty systems are prone to loss, fraud, and manual verification d
 
 Contract Address: CBEBD2WOHKQ2LCEM64NT5PRXY7CCNM4V7D37BEVQW3BQWPQ5UC2XLKKX
 
-- Hackathon organizers (AI Utkarsh / Hack-O-NiT)  
-- Open-source contributors  
