@@ -44,6 +44,7 @@ Traditional warranty systems are prone to loss, fraud, and manual verification d
 ---
 
 ## 📸 Preview
+<img width="1920" height="1140" alt="Screenshot 2026-03-20 150228" src="https://github.com/user-attachments/assets/1629e2e3-d00f-4b04-99b1-992092c22e48" />
 
 <img width="1920" height="1140" alt="Screenshot 2026-03-20 144608" src="https://github.com/user-attachments/assets/171b039f-f77a-477b-a99d-1eeb0504a6a2" />
 
