@@ -54,3 +54,14 @@ Traditional warranty systems are prone to loss, fraud, and manual verification d
 
 Contract Address: CBEBD2WOHKQ2LCEM64NT5PRXY7CCNM4V7D37BEVQW3BQWPQ5UC2XLKKX
 
+🔗CONTRACT LINK:-
+ https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CBEBD2WOHKQ2LCEM64NT5PRXY7CCNM4V7D37BEVQW3BQWPQ5UC2XLKKX;;
+## 📌 Future Improvements
+
+- Mobile-friendly UI  
+- Warranty analytics dashboard  
+- Expiry notifications  
+- QR code-based product lookup  
+- Mainnet deployment  
+
+
